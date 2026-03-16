@@ -49,19 +49,24 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="45%">
+<img src="https://github-readme-stats.vercel.app/api?username=kareemtamer122-web&show_icons=true&theme=tokyonight" width="45%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" width="45%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kareemtamer122-web&layout=compact&theme=tokyonight" width="45%">
 
 </div>
 
 ---
+## 🌐 Connect With Me
 
-## 🌍 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kareem-tamer-shabara-375739359)
 
-- 💼 LinkedIn: *(www.linkedin.com/in/kareem-tamer-shabara-375739359)*
-- 📧 Email: *(kareemtamer6333@gmail.com)*
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1CZCkcHFEa/)
 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kareem_tamer122?igsh=MTF0dmZ3dWJjdjR6NQ==)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kareemtamer6333@gmail.com)
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](@Kareem_Tamer122)
 ---
 
 ⭐ *Always learning, always building.*
