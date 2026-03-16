@@ -3,7 +3,7 @@
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/>
 
-# Hi 👋 I'm Kareem Tamer
+# Hi 👋 I'm Kareem Tamer Shabara
 
 🎓 AI Student  
 💻 Learning Programming & Cybersecurity  
@@ -15,7 +15,9 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 I'm **Kareem Tamer**, a student at **Faculty of Artificial Intelligence**
+- 👋 I'm **Kareem Tamer Shabara**
+- 🎓 Student at **Faculty of Artificial Intelligence**
+- 🏫 **University:** Delta University for Science and Technology
 - 💻 Currently learning **Java, C#, Python**
 - 🗄️ Studying **Databases & Programming Fundamentals**
 - 🔐 Interested in **Cybersecurity**
@@ -57,8 +59,8 @@
 
 ## 🌍 Connect With Me
 
-- 💼 LinkedIn: *(put your linkedin here)*
-- 📧 Email: *(put your email here)*
+- 💼 LinkedIn: *(www.linkedin.com/in/kareem-tamer-shabara-375739359)*
+- 📧 Email: *(kareemtamer6333@gmail.com)*
 
 ---
 
