@@ -58,7 +58,7 @@
 ---
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kareem-tamer-shabara-375739359)
+[![LinkedIn](https://img.shields.io/badge/LinkedIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kareem-tamer-shabara-375739359)
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1CZCkcHFEa/)
 
@@ -66,7 +66,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kareemtamer6333@gmail.com)
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](@Kareem_Tamer122)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Kareem_Tamer122)
 ---
 
 ⭐ *Always learning, always building.*
